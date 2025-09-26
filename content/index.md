@@ -73,7 +73,8 @@ Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of comp
     #description
     Query entries and assets with advanced filtering and pagination. All composables support live preview, personalization, and use Nuxt's caching system for optimal performance.
     ::::
-  
+
+ 
     ::::u-page-card
     ---
     spotlight: true
