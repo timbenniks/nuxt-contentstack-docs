@@ -71,7 +71,7 @@ Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of comp
     [Vue Components]{.text-primary} & Modular Blocks
     
     #description
-    ContentstackModularBlocks component for dynamic page building with auto-fetch capability. Render Contentstack modular blocks as Vue components with Live Preview support and fallback handling.
+    ContentstackModularBlocks component for dynamic page building with auto-fetch capability and built-in SEO metadata support. Render Contentstack modular blocks as Vue components with Live Preview integration and automatic SEO generation.
     ::::
 
  
