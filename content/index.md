@@ -65,13 +65,13 @@ Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of comp
     spotlight: true
     class: col-span-2
     target: _blank
-    to: https://nuxt.com/docs/api/composables/use-fetch
+    to: /essentials/components
     ---
     #title
-    Complete Set of [Vue Composables]{.text-primary}
+    [Vue Components]{.text-primary} & Modular Blocks
     
     #description
-    Query entries and assets with advanced filtering and pagination. All composables support live preview, personalization, and use Nuxt's caching system for optimal performance.
+    ContentstackModularBlocks component for dynamic page building with auto-fetch capability. Render Contentstack modular blocks as Vue components with Live Preview support and fallback handling.
     ::::
 
  
@@ -80,13 +80,13 @@ Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of comp
     spotlight: true
     class: col-span-2
     target: _blank
-    to: https://www.contentstack.com/docs/developers/live-preview/
+    to: /features/auto-fetch
     ---
     #title
-    [Live Preview]{.text-primary} & Personalization
+    [Route-based Auto-fetch]{.text-primary} & Smart Caching
     
     #description
-    Real-time content editing with visual builder support. Personalize content based on user attributes and behavior with Contentstack's powerful personalization engine.
+    Zero-config content fetching based on URL patterns. Automatic middleware loads content based on routes with smart caching, error handling, and seamless integration with existing composables.
     ::::
   
     ::::u-page-card
@@ -122,13 +122,13 @@ Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of comp
     spotlight: true
     class: col-span-2
     target: _blank
-    to: https://devtools.nuxt.com/
+    to: /essentials/composables
     ---
     #title
-    [Nuxt DevTools]{.text-primary} Integration
+    Complete Set of [Vue Composables]{.text-primary}
     
     #description
-    Custom DevTools tab with content inspector, query monitor, cache status, and live preview tracking. Debug your Contentstack integration with powerful developer tools.
+    Query entries and assets with advanced filtering and pagination. All composables support live preview, personalization, and use Nuxt's caching system for optimal performance.
     ::::
   
     
