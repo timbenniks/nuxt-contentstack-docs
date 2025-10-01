@@ -73,21 +73,6 @@ Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of comp
     #description
     ContentstackModularBlocks component for dynamic page building with auto-fetch capability and built-in SEO metadata support. Render Contentstack modular blocks as Vue components with Live Preview integration and automatic SEO generation.
     ::::
-
- 
-    ::::u-page-card
-    ---
-    spotlight: true
-    class: col-span-2
-    target: _blank
-    to: /features/auto-fetch
-    ---
-    #title
-    [Route-based Auto-fetch]{.text-primary} & Smart Caching
-    
-    #description
-    Zero-config content fetching based on URL patterns. Automatic middleware loads content based on routes with smart caching, error handling, and seamless integration with existing composables.
-    ::::
   
     ::::u-page-card
     ---
