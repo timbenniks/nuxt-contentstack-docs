@@ -6,7 +6,7 @@ seo:
 
 ::u-page-hero
 #title
-Nuxt Contentstack Module
+Contentstack for Nuxt
 
 #description
 Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of composables, live preview, personalization, and seamless content management.
@@ -25,22 +25,22 @@ Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of comp
   :::u-button
   ---
   color: neutral
-  icon: simple-icons-github
   size: xl
-  to: https://github.com/timbenniks/nuxt-contentstack
+  to: https://community.contentstack.com
+  icon: i-lucide-users
   variant: outline
   ---
-  Star on GitHub
+  Join the community
   :::
 
 #headline
   :::u-button
   ---
   size: sm
-  to: https://stackblitz.com/github/timbenniks/nuxt-contentstack?file=playground%2Fapp.vue
+  to: https://www.contentstack.com/explorer
   variant: outline
   ---
-  Try Online →
+  Create a free contentstack account →
   :::
 ::
 
@@ -49,7 +49,7 @@ Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of comp
     ::::u-page-card
     ---
     spotlight: true
-    class: group col-span-2 lg:col-span-1
+    class: col-span-2 md:col-span-1
     target: _blank
     to: https://www.contentstack.com/
     ---
@@ -63,7 +63,7 @@ Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of comp
     ::::u-page-card
     ---
     spotlight: true
-    class: col-span-2
+    class: col-span-2 md:col-span-1
     target: _blank
     to: /essentials/components
     ---
@@ -105,7 +105,7 @@ Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of comp
     ::::u-page-card
     ---
     spotlight: true
-    class: col-span-2
+    class: col-span-2 md:col-span-1
     target: _blank
     to: /essentials/composables
     ---
@@ -114,6 +114,20 @@ Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of comp
     
     #description
     Query entries and assets with advanced filtering and pagination. All composables support live preview, personalization, and use Nuxt's caching system for optimal performance.
+    ::::
+
+    ::::u-page-card
+    ---
+    spotlight: true
+    class: col-span-2 md:col-span-1
+    target: _blank
+    to: /essentials/personalization
+    ---
+    #title
+    [Personalization]{.text-primary} & Targeting
+    
+    #description
+    Deliver personalized content experiences with Contentstack Personalize. Set user attributes, track events, and serve variant-based content based on user segments and behavior.
     ::::
   
     
