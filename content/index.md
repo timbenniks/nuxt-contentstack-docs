@@ -1,7 +1,8 @@
 ---
 seo:
   title: Nuxt Contentstack Module
-  description: Deep Contentstack DXP platform integration for Nuxt 4. Complete set of composables, live preview, personalization, and image optimization.
+  description: Deep Contentstack DXP platform integration for Nuxt 4. Complete set
+    of composables, live preview, personalization, and image optimization.
 ---
 
 ::u-page-hero
@@ -9,7 +10,7 @@ seo:
 Contentstack for Nuxt
 
 #description
-Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of composables, live preview, personalization, and seamless content management.
+Deep Contentstack DXP platform integration for Nuxt 4. :br Complete set of composables, live preview, personalization, and seamless content management.
 
 #links
   :::u-button
@@ -25,9 +26,9 @@ Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of comp
   :::u-button
   ---
   color: neutral
+  icon: i-lucide-users
   size: xl
   to: https://community.contentstack.com
-  icon: i-lucide-users
   variant: outline
   ---
   Join the community
@@ -115,7 +116,7 @@ Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of comp
     #description
     Query entries and assets with advanced filtering and pagination. All composables support live preview, personalization, and use Nuxt's caching system for optimal performance.
     ::::
-
+  
     ::::u-page-card
     ---
     spotlight: true
@@ -129,7 +130,5 @@ Deep Contentstack DXP platform integration for Nuxt 4. <br> Complete set of comp
     #description
     Deliver personalized content experiences with Contentstack Personalize. Set user attributes, track events, and serve variant-based content based on user segments and behavior.
     ::::
-  
-    
   :::
 ::
