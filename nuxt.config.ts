@@ -7,5 +7,11 @@ export default defineNuxtConfig({
     "@nuxt/scripts",
     "@nuxt/ui",
     "@nuxt/eslint"
-  ]
+  ],
+
+  content: {
+    preview: {
+      api: 'https://api.nuxt.studio'
+    }
+  }
 })
