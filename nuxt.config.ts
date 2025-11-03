@@ -6,12 +6,23 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "@nuxt/scripts",
     "@nuxt/ui",
-    "@nuxt/eslint"
+    "@nuxt/eslint",
   ],
 
   content: {
     preview: {
       api: 'https://api.nuxt.studio'
+    }
+  },
+
+  app: {
+    head: {
+      script: [
+        {
+          src: 'https://plausible.io/js/pa-ZrQX90qYpJBfszQdLtcR-.js',
+          async: true,
+        }
+      ]
     }
   }
 })
