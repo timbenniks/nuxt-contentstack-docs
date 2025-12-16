@@ -130,5 +130,19 @@ Deep Contentstack DXP platform integration for Nuxt 4. :br Complete set of compo
     #description
     Deliver personalized content experiences with Contentstack Personalize. Set user attributes, track events, and serve variant-based content based on user segments and behavior.
     ::::
+  
+    ::::u-page-card
+    ---
+    spotlight: true
+    class: col-span-2 md:col-span-1
+    target: _blank
+    to: /essentials/performance
+    ---
+    #title
+    [Performance]{.text-primary} Optimization
+    
+    #description
+    Optimize your application for speed and efficiency with caching strategies, request optimization, and performance best practices.
+    ::::
   :::
 ::
